@@ -1,20 +1,18 @@
-===============================
-Text Similarity
-===============================
+===========================================
+Measuring text similarities with Word2Vec
+===========================================
 
 .. image:: https://img.shields.io/travis/mattjshannon/textsim.svg
         :target: https://travis-ci.org/mattjshannon/textsim
 
-.. image:: https://img.shields.io/pypi/v/textsim.svg
-        :target: https://pypi.python.org/pypi/textsim
+Produced a Word2Vec model with ``gensim`` based on analyzing three of my academic
+publications: Shannon et al. 2015, 2016, 2018.
 
+Model tensor: https://github.com/mattjshannon/textsim/blob/master/textsim/resources/papers_tensor.tsv
+Model metadata: https://github.com/mattjshannon/textsim/blob/master/textsim/resources/papers_metadata.tsv
 
-Measuring text similarities with gensim.
+These can be evaluated in the TensorFlow Embedding Projector:
+https://projector.tensorflow.org/
 
-* Free software: 3-clause BSD license
-* Documentation: (COMING SOON!) https://mattjshannon.github.io/textsim.
+And fit with (e.g.,) 
 
-Features
---------
-
-* TODO
