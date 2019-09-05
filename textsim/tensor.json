@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://gist.githubusercontent.com/mattjshannon/d087b4e4c46f4d0fc0180a6fbe488b21/raw/b9f7ebfb50fb4c9bc6d0ce865ad8ff5bf887c658/test2_out.txt_tensor.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/mattjshannon/d087b4e4c46f4d0fc0180a6fbe488b21/raw/b9f7ebfb50fb4c9bc6d0ce865ad8ff5bf887c658/test2_out.txt_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/mattjshannon/textsim/master/textsim/resources/papers_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mattjshannon/textsim/master/textsim/resources/papers_metadata.tsv"
     }
   ]
 }
